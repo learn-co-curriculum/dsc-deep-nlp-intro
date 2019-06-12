@@ -1,18 +1,14 @@
 
-# Introduction
+# Deep NLP with Word Embeddings - Introduction
 
 ## Introduction
 
-This lesson summarizes the topics we'll be covering in section 45 and why they'll be important to you as a data scientist.
+In this section you'll strengthen your deep learning and natural language processing skills by learning about word embeddings! Word embeddings are a unique coding schema for text corpa that preserve many underlying features, allowing for interesting geometric relations in this hyperspace. Specifically, you'll look at how similarity metrics can represent how two words relate to each other, and these transformations can be applied to multiple word pairs. For example, a similarity metric could encapsulate analogies like "man is to woman as king is to ____". 
 
 ## Objectives
 You will be able to:
-* Understand and explain what is covered in this section
-* Understand and explain why the section will help you to become a data scientist
+* Explain some high level concepts regarding word embeddings
 
-## Deep NLP - Word Embeddings
-
-In this section, we'll dive deeper into the concept of natural language processing!
 
 ### Word Embeddings
 
